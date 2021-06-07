@@ -1,0 +1,9 @@
+FAIL - All parameters must be greater than zero.,0,0,0
+FAIL - All parameters must be greater than zero.,-1,1,1
+FAIL - All parameters must be numerical.,a,a,a
+FAIL - These sides do not make a triangle.,1,2,10
+FAIL - All parameters must be greater than zero.,0,1,6
+FAIL - All parameters must be numerical.,g,2,10
+PASS - Equilateral,4,4,4
+PASS - Isosceles,2,6,6
+PASS - Scalene,3,4,5
